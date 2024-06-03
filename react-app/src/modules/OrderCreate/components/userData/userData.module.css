@@ -1,0 +1,59 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+}
+.inputn {
+    margin-bottom: 20px;
+    height: 70px;
+    border-radius: 5px;
+    border: 1px solid black;
+    max-width: 70%;
+    font-size: large;
+    padding-left: 5px;
+}
+.inputf {
+    margin-bottom: 20px;
+    height: 70px;
+    border-radius: 5px;
+    border: 1px solid black;
+    max-width: 70%;
+    font-size: large;
+    padding-left: 5px;
+}
+.inputo {
+    margin-bottom: 20px;
+    height: 70px;
+    border-radius: 5px;
+    border: 1px solid black;
+    max-width: 70%;
+    font-size: large;
+    padding-left: 5px;
+}
+.inputs {
+    margin-bottom: 20px;
+    height: 70px;
+    border-radius: 5px;
+    border: 1px solid black;
+    max-width: 70%;
+    font-size: large;
+    padding-left: 5px;
+}
+.inputnu {
+    margin-bottom: 20px;
+    height: 70px;
+    border-radius: 5px;
+    border: 1px solid black;
+    max-width: 70%;
+    font-size: large;
+    padding-left: 5px;
+}
+.inputp {
+    margin-bottom: 20px;
+    height: 70px;
+    border-radius: 5px;
+    border: 1px solid black;
+    max-width: 70%;
+    font-size: large;
+    padding-left: 5px;
+}

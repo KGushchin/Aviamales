@@ -1,0 +1,15 @@
+.div {
+    background-color: #fa742d;
+     color: whitesmoke;
+    font-size: 8px;
+    border-radius: 10px;
+    line-height: 1.4;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 50%;
+}
+h1 {
+    margin: 5px;
+}

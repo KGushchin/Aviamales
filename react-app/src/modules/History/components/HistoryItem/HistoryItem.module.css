@@ -1,0 +1,25 @@
+.div {
+    max-width: 250px;
+    width: 100%;
+    border-radius: 5px;
+    padding: -20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 15px;
+    background-color: floralwhite;
+}
+.geo {
+    padding: 20px;
+    padding-bottom:0;
+    margin-bottom: 0;
+}
+.day {
+    font-size: 18px;
+}
+.time {
+    font-size: 18px;
+}
+.roadTime {
+    font-size: 18px;
+}
